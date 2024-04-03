@@ -54,7 +54,7 @@ a{
     color:var(--shcolor);
     text-decoration:none;
     padding: 1rem;
-    font-weight:700;
+    font-weight: 700;
 }
 li:hover{
     background-color:var(--pcolor);
